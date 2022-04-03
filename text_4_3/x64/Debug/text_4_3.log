@@ -1,0 +1,5 @@
+﻿  game.c
+  text_4_3.c
+  正在生成代码...
+text_4_3.obj : error LNK2005: output 已经在 game.obj 中定义
+E:\visaul studio 2022\练习代码\text_4_3\x64\Debug\text_4_3.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
